@@ -53,4 +53,4 @@ Inserir imagens
 
 Inserir link
 
-[Acesse meu GitHUB](https:MadQues.github.io)
+[Acesse meu GitHUB](https://MadQues.github.io)
