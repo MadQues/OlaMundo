@@ -53,4 +53,4 @@ Inserir imagens
 
 Inserir link
 
-[Acesse GitHUB do Guanabara](https:/gustavoguanabara.github.io)
+[Acesse GitHUB do Guanabara](https://gustavoguanabara.github.io)
