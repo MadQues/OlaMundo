@@ -73,4 +73,3 @@ Texto 1
 Texto 2
 ```
 
-Olá pequeno Gafanhoto, :
