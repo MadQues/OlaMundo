@@ -55,5 +55,5 @@ Inserir link
 
 [Acesse GitHUB do Guanabara](https://gustavoguanabara.github.io)
 
-[Acesse meu GitHub](https://madques.github.io)
+[Link para um site](https://www.artsy.net/artist/olivia-de-berardinis)
 
