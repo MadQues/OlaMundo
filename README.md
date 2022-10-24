@@ -1,3 +1,4 @@
+
 # Olá, Mundo
  Primeiro repositorio do cruso de Git e Github
  Repositório criado durante uma aula ao vivo
@@ -45,3 +46,11 @@ Lista de Tarefas:
 - [ ] Criar a página da loja
 - [ ] Finalizar a reunião com o cliente
 - [ ] receber poagamento
+
+Inserir imagens
+
+![Appearance_Jin_Female00000](https://user-images.githubusercontent.com/97808503/197603936-91ec9c09-93a1-4455-bf7e-c4d61bb60035.jpg)
+
+Inserir link
+
+[Acesse meu GitHUB](https:MadQues.github.io)
