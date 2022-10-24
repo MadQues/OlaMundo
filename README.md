@@ -67,3 +67,10 @@ Terminou a tabela
 
 Não entendo direito para que serve o comando `document.getElementById()` da lingaugem JavaScript
 
+Olha meu programa
+```
+Texto 1
+Texto 2
+```
+
+Olá pequeno Gafanhoto, :
