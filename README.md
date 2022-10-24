@@ -57,5 +57,13 @@ Inserir link
 
 [Link para um site](https://www.artsy.net/artist/olivia-de-berardinis)
 
-Nome | Teste
+Num|Nome|Nota
+---|---|---
+1|Quesada|10,0
+2|Gustavo| 8,5
+3|José|4,0
+
+Terminou a tabela
+
+Não entendo direito para que serve o comando `document.getElementById()` da lingaugem JavaScript
 
