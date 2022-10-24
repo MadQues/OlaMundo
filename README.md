@@ -31,14 +31,17 @@
 999. teste4
 
 Lista demarcada:
+
 * Teste
 * Teste
 * Teste
    * Teste
 * Teste
-* 
 
 
-Lista de Tarefas: 
+Lista de Tarefas:
 
--[] item1
+- [ ] Criar a página principal
+- [ ] Criar a página da loja
+- [ ] Finalizar a reunião com o cliente
+- [ ] receber poagamento
